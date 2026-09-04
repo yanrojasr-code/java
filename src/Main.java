@@ -4,6 +4,8 @@ import java.util.Scanner;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
+        Estudiante estudiante = new Estudiante("Tara","Igenieria en Informatica", 27);
+        estudiante.mostrarInformacion();
         Scanner scanner = new Scanner(System.in);
         System.out.println("Ingrese su nombre ");
         String nombre = scanner.nextLine();

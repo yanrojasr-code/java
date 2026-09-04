@@ -4,8 +4,7 @@ import java.util.Scanner;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        Estudiante estudiante = new Estudiante("Tara","Igenieria en Informatica", 27);
-        estudiante.mostrarInformacion();
+
         Scanner scanner = new Scanner(System.in);
         System.out.println("Ingrese su nombre ");
         String nombre = scanner.nextLine();
@@ -16,7 +15,7 @@ public class Main {
         System.out.println("Ingrese su edad");
         int edad = scanner.nextInt();
 
-     Estudiante estudiante = new Estudiante("Tara","Igenieria en Informatica", 27);
+     Estudiante estudiante = new Estudiante(nombre, carrera, edad);
      estudiante.mostrarInformacion();
 
 

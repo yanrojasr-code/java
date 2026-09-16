@@ -6,6 +6,7 @@ public class Dispositivo {
     public Dispositivo(String nombre, boolean activo) {
         this.nombre = nombre;
         this.activo = activo;
+
     }
     public  void mostrarEstado()
     {

@@ -5,14 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3be53906-4ba1-49e8-beff-1b7a0a51efc5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EquipoEmergencia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BrigadaMedica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BrigadaTecnica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DronRescate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EquipoEmergencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EquipoEmergencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled3/java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled3/src/BrigadaMedica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled3/src/BrigadaTecnica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled3/src/DronRescate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled3/src/EquipoEmergencia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled3/untitled3.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,16 +89,5 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>3</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

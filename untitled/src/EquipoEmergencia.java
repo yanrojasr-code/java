@@ -16,4 +16,6 @@ public  abstract  class EquipoEmergencia {
         System.out.println("el nombre del equipo es ");
 
     }
+    public  abstract  void AtenderEmergencia();
+
 }

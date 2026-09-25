@@ -1,4 +1,4 @@
-public class  DronRescate extends EquipoEmergencia  implements IVolador{
+public class  DronRescate extends EquipoEmergencia  implements VOLADOR {
 
 
     public DronRescate(String nombre ) {

@@ -14,6 +14,10 @@ public  class Main {
         dronRescate.mostrarNombre();
         dronRescate.AtenderEmergencia();
 
+        DronRescate dron = new DronRescate("dron rescatado");
+        BrigadaTecnica tecnica1 = new BrigadaTecnica("brrigada tecnica");
 
+        dron.AtenderEmergencia();
+        tecnica1.AtenderEmergencia();
     }
 }

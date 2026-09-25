@@ -23,5 +23,23 @@ public  class Main {
         tecnica1.reparar();
         dron.AtenderEmergencia();
         tecnica1.AtenderEmergencia();
-    }
+
+
+           EquipoEmergencia equipo1 = new BrigadaMedica("Brigada Médica");
+           EquipoEmergencia equipo2 = new BrigadaTecnica("Brigada Técnica");
+           EquipoEmergencia equipo3 = new DronRescate("Dron de Rescate");
+
+           equipo1.AtenderEmergencia();
+           equipo2.AtenderEmergencia();
+           equipo3.AtenderEmergencia();
+
+           REPARADOR reparador = new BrigadaTecnica("Equipo Técnico");
+           reparador.reparar();
+
+           VOLADOR volador = new DronRescate("Dron aereo");
+           volador.volar();
+       }
+
+
+       }
 }

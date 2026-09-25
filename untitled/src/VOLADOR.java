@@ -1,4 +1,4 @@
 public interface VOLADOR {
-    void  volar();
-
+    void volar();
 }
+

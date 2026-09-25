@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3be53906-4ba1-49e8-beff-1b7a0a51efc5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/REPARADOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/REPARADOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VOLADOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VOLADOR.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled3/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled3/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled3/.idea/misc.xml" beforeDir="false" />

@@ -19,7 +19,7 @@ public class CalculadoraNotas {
             double nota1,
             double nota2,
             double nota3
-    )
+    ) {return (nota1 + nota2 + nota3);}
 
 
     /**
@@ -28,7 +28,7 @@ public class CalculadoraNotas {
      * @return true si el promedio es mayor o igual a 4.0
      */
 
-    public boolean estaAprobado(double promedio >=4.0) {
+    public boolean estaAprobado(double promedio) {
         return promedio >= 4.0;}
     /*
      * La escala utilizada considera 4.0
